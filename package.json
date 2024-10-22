@@ -1,7 +1,7 @@
 {
   "name": "rexel-app",
   "version": "0.1.0",
-  "private": true,
+  "private": false,
   "homepage": "https://ysree6767.github.io/rxl/",
   "dependencies": {
     "@emotion/react": "^11.13.3",

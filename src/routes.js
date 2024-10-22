@@ -11,7 +11,7 @@ import PrivateRoute from './components/PrivateRoute';
 function App() {
   return (
       <Routes>
-        <Route path='/' element={<Navigate to="/sign-in-1" />} />
+        <Route path='/rxl' element={<Navigate to="/sign-in-1" />} />
         <Route path='/sign-in-1' element={<LoginPage1 />} />
         <Route path='/sign-in-2' element={<LoginPage2 />} />
         <Route path='/sign-in-3' element={<LoginPage3 />} />
