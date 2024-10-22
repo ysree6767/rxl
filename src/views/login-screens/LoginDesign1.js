@@ -33,7 +33,7 @@ const LoginPage = () => {
     <div className='min-h-screen flex flex-col justify-center items-center bg-gray-100 px-4'>
       <div className='bg-white rounded-lg shadow-lg px-8 py-4  w-full max-w-sm sm:max-w-md lg:max-w-lg transition-all duration-300 ease-in-out'>
         <div className='flex justify-center'>
-          <img src='/assets/capitol_light_logo.jpg' alt='logo' className='w-[100px] h-[100px]' />
+          <img src='/assets/capitol_light_logo1.jpg' alt='logo' className='w-[100px] h-[100px]' />
         </div>
         <p className='text-gray-500 text-center mb-6'>The Capitol Light SRMS website requires user authentication. Please enter your details</p>
         <form onSubmit={handleLogin}>
