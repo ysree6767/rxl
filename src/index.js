@@ -11,7 +11,7 @@ const root = createRoot(container);
 
 root.render(
   <AuthProvider>
-    <BrowserRouter>
+    <BrowserRouter base='/rxl'>
       <App />
     </BrowserRouter>
   </AuthProvider>

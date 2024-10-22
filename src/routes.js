@@ -1,5 +1,5 @@
 import React from 'react';
-import {Route, Routes, Navigate } from 'react-router-dom';
+import { Route, Routes, Navigate } from 'react-router-dom';
 import LoginPage1 from './views/login-screens/LoginDesign1';
 import LoginPage2 from './views/login-screens/LoginDesign2';
 import LoginPage3 from './views/login-screens/LoginDesign3';
